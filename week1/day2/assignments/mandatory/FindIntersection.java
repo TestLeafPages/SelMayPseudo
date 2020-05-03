@@ -9,7 +9,7 @@ public class FindIntersection {
 	 
 	 * b) Declare another array for {1,2,8,4,9,7}
 	 * c) Declare for loop iterator from 0 to array length
-	 * d) Declare a nested for another array from 0 to array length
+	 * d) Declare a nested for loop with another array from 0 to array length
 	 * e) Compare Both the arrays using a condition statement
 	 
 	 *  f) Print the first array (shoud match item in both arrays)
