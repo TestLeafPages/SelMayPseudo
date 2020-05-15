@@ -1,9 +1,9 @@
 package week3.day2.classroom;
 
 // Input: "PayPal India"
-// Output: P,a
+// Output:ylIndi
 
-public class IdentifyDuplicates {
+public class RemoveDuplicates {
 
 	public static void main(String[] args) {		
 		
@@ -25,7 +25,7 @@ public class IdentifyDuplicates {
 
 //		Check the iterator variable isn't equals to an empty space
 
-//		print it
+//		print each character for charSet
 
 	}
 
